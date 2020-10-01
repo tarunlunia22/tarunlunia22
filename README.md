@@ -1,8 +1,6 @@
 ### Hey Geek, [Tarun](https://github.com/tarunlunia22) this side 🙏
 
 
-[![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9016720465)
-<br>
 ### Info Google won't tell you:
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
@@ -22,14 +20,11 @@
 <br />
 <br />
 
-<details>
-<summary>:zap: Github Stats</summary>
-   <a href="https://github.comctarunlunia22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunlunia22&show_icons=true&theme=light&line_height=27" alt="Tarun's github stats"/>
-   </a>
-   <a href="https://github.com/tarunlunia22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlunia22&theme=light&hide_langs_below=1" />
-   </a>
- </details>
-
+<a href="https://github.com/tarunlunia22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunlunia22&show_icons=true&theme=light&line_height=27" alt="Tarun's github stats"/>
+ </a>
+ <a href="https://github.com/tarunlunia22">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlunia22&theme=light&hide_langs_below=1" />
+ </a>
+ 
 ### Would ♥️ to collaborate with you.
