@@ -1,17 +1,16 @@
-### Hey Geek, Tarun this side 🙏
+### Hey Geek, [Tarun](https://github.com/tarunlunia22) this side 🙏
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tarunlunia22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TarunLunia1)
+
+[![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9016720465)
 <br>
-[![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://web.whatsapp.com)
-<br>
 
 
-### A Little Wikipedia Page of My own:
+### Info Google won't tell you:
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes my brain go BANG!, the tech may be unknown to me.
 - 💬 Ask me about Coding, Frontend Development and cloud computing.
-- 📫 How to reach me:[LinkedIn] linkedin.com/in/tarun-lunia-630871194.
+- 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
 - ⚡ Fun fact: I love to play FIFA 🎮 and sing "SMOKE SHISHA PLAY FIFA ⚽️".
 
 
@@ -35,11 +34,11 @@
 <br />
 <br />
 
-<a href="https://github.com/luniatarun22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luniatarun22&show_icons=true&theme=light&line_height=27" alt="Tarun's github stats"/>
+<a href="https://github.com/tarunlunia22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunlunia22&show_icons=true&theme=light&line_height=30" alt="Tarun's github stats"/>
  </a>
- <a href="https://github.com/luniatarun22">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luniatarun22&theme=light&hide_langs_below=1" />
+ <a href="https://github.com/tarunlunia22">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlunia22&theme=light&hide_langs_below=1" />
  </a>
 
 
