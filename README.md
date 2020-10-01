@@ -28,7 +28,8 @@
 
 
 <div align="center">
-  
+<br/>
+<br/>
 <a href="https://twitter.com/TarunLunia1">
   <img alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -44,8 +45,7 @@
 <a href="https://www.instagram.com/tarun.lunia22/">
   <img alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br/>
-<br/>
+
  
 ### Show some ❤️ by starring some of the repositories!
 
