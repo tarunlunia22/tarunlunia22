@@ -1,9 +1,6 @@
 ### Hey Geek, Tarun this side 🙏
 
 
-
-Here are some ideas to get you started:
-
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes my brain go BANG!, the tech may be unknown to me.
 - 💬 Ask me about Coding, Frontend Development and cloud computing.
