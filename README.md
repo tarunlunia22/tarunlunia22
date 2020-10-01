@@ -18,9 +18,6 @@
   <img align="left" alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
-<br/>
-
 ### Info Google won't tell you:
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
@@ -28,6 +25,10 @@
 - 💬 Ask me about Coding, Frontend Development and cloud computing.
 - 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
 - ⚡ Fun fact: I love to play FIFA 🎮 and sing "SMOKE SHISHA PLAY FIFA ⚽️".
+
+[![Twitter:TarunLunia1](https://img.shields.io/twitter/follow/TarunLunia1?style=social)](https://twitter.com/TarunLunia1)
+[![Linkedin: Tarun Lunia](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-lunia-630871194/)](https://www.linkedin.com/in/tarun-lunia-630871194/)
+[![GitHub: luniatarun22](https://img.shields.io/github/followers/luniatarun22?label=follow&style=social)](https://github.com/luniatarun22)
 
 **Languages and Tools:**  
 
