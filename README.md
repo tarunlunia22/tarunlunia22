@@ -5,25 +5,6 @@
 - 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
 - 📫 How to reach me: LinkedIn.
 
-<a href="https://twitter.com/TarunLunia1">
-  <img align="left" alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tarun-lunia-630871194/">
-  <img align="left" alt="Tarun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/tarunlunia22">
-  <img align="left" alt="Tarun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/Tarunlunia22">
-  <img align="left" alt="Tarun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/tarun.lunia22/">
-  <img align="left" alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br/>
-<br/>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
@@ -45,8 +26,27 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlunia22&theme=radical&hide_langs_below=1""/>
 </a>
 
-<div align="center">
 
+<div align="center">
+  
+<a href="https://twitter.com/TarunLunia1">
+  <img align="left" alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tarun-lunia-630871194/">
+  <img align="left" alt="Tarun's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/tarunlunia22">
+  <img align="left" alt="Tarun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/Tarunlunia22">
+  <img align="left" alt="Tarun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/tarun.lunia22/">
+  <img align="left" alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
+ 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
