@@ -1,5 +1,9 @@
 ### Hey Geek, Tarun this side 🙏
 
+[<img align="left" alt="tarunlunia22 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="tarunlunia22 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tarunlunia22 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes my brain go BANG!, the tech may be unknown to me.
