@@ -1,6 +1,6 @@
 ### Hola, I'm [Tarun](https://github.com/tarunlunia22) ! 👋.
 
-<img src="https://raw.githubusercontent.com/tarunlunia22/tarunlunia22/blob/master/image/Eat-Sleep-Code-Free-image-on-Pixabay.jpg" alt="Hello world">
+<img width="1000" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/image/Eat-Sleep-Code-Free-image-on-Pixabay.jpg" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
