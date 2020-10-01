@@ -24,10 +24,10 @@
 
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
-- 👯 I’m looking to collaborate on projects that makes my brain go BANG!, the tech may be unknown to me.
-- 💬 Ask me about Coding, Frontend Development and cloud computing.
+- 👯 I’m looking to collaborate on projects that makes me exciting.
+- 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
 - 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
-- ⚡ Fun fact: I love to play FIFA 🎮 and sing "SMOKE SHISHA PLAY FIFA ⚽️".
+- ⚡ Fun fact: I love to play FIFA 🎮 while singing " SMOKE SHISHA PLAY FIFA ".
 
 [![Twitter: TarunLunia1](https://img.shields.io/twitter/follow/TarunLunia1?style=social)](https://twitter.com/TarunLunia1)
 [![Linkedin: Tarun Lunia](https://img.shields.io/badge/-Tarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-lunia-630871194/)](https://www.linkedin.com/in/tarun-lunia-630871194/)
