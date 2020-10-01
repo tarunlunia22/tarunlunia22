@@ -5,6 +5,8 @@
 - 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarun-lunia-630871194/).
 
+<img align="right" alt="GIF" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
