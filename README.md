@@ -1,9 +1,9 @@
-###Hola, I'm Tarun ! 👋.
+### Hola, I'm Tarun ! 👋.
 
--👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
--👯 I’m looking to collaborate on projects that makes me exciting.
--💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
--📫 How to reach me: LinkedIn.
+- 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
+- 👯 I’m looking to collaborate on projects that makes me exciting.
+- 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
+- 📫 How to reach me: LinkedIn.
 
 <a href="https://twitter.com/TarunLunia1">
   <img align="left" alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
