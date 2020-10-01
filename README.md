@@ -4,17 +4,14 @@
 <img align="right" alt="GIF" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/code.gif?raw=true" width="350" height="250" />
  <br/>
 
+### I am Competitive Coder • PR Head @GeeksforGeeks (BU) • Core @Script Foundation • CSE Bennett'23
+
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes me exciting.
 - 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarun-lunia-630871194/).
  
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
-</p>
-
-**Languages and Tools:**  
+###Languages and Tools:###  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -32,6 +29,11 @@
 
 
 <div align="center">
+<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
+</p>
 <br/>
 <br/>
 <a href="https://twitter.com/TarunLunia1">
