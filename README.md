@@ -1,9 +1,8 @@
 ### Hey Geek, [Tarun](https://github.com/tarunlunia22) this side 🙏
 
 
-[![whatsapp](https://img.shields.io/website?label=Feel free to Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9016720465)
+[![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9016720465)
 <br>
-
 ### Info Google won't tell you:
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
