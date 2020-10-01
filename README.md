@@ -1,6 +1,11 @@
 ### Hola, I'm [Tarun](https://github.com/tarunlunia22) ! 👋.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunlunia22&label=Views&color=blue&style=plastic" alt="tarunlunia22" /> </p>
+<img src="https://gph.is/1vOCl8h" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
+</p>
 
 <a href="https://twitter.com/TarunLunia1">
   <img align="left" alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
