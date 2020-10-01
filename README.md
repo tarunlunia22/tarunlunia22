@@ -29,9 +29,9 @@
 - 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
 - ⚡ Fun fact: I love to play FIFA 🎮 and sing "SMOKE SHISHA PLAY FIFA ⚽️".
 
-[![Twitter:TarunLunia1](https://img.shields.io/twitter/follow/TarunLunia1?style=social)](https://twitter.com/TarunLunia1)
-[![Linkedin: Tarun Lunia](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-lunia-630871194/)](https://www.linkedin.com/in/tarun-lunia-630871194/)
-[![GitHub: luniatarun22](https://img.shields.io/github/followers/luniatarun22?label=follow&style=social)](https://github.com/luniatarun22)
+[![Twitter: TarunLunia1](https://img.shields.io/twitter/follow/TarunLunia1?style=social)](https://twitter.com/TarunLunia1)
+[![Linkedin: Tarun Lunia](https://img.shields.io/badge/-Tarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-lunia-630871194/)](https://www.linkedin.com/in/tarun-lunia-630871194/)
+[![GitHub: Tarun Lunia](https://img.shields.io/github/followers/tarunlunia22?label=follow&style=social)](https://github.com/tarunlunia22)
 
 **Languages and Tools:**  
 
