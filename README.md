@@ -1,4 +1,48 @@
-### Hola, I'm [Tarun](https://github.com/tarunlunia22) ! 👋.
+<?php
+
+namespace Tarun Lunia;
+
+class About extends Me
+{
+    public function getCurrentWorkplace()
+    {
+        return [
+            'workplace' => [
+                'company' => 'GeeksforGeeks Society',
+                'position' => 'Public Relations and Outreach Head'  
+                'company' => 'Script Foundation',
+                'position' => 'Core Team Member'
+                'company' => 'Coding Blocks',
+                'position' => 'Campus Ambassador'       
+            ]
+        ];
+    }
+
+    public function skills()
+    {
+        return [
+            CompetitiveCoding::class,
+            FrontendDevelopment::class,
+        ];
+    }
+
+    public function getDailyKnowledge()
+    {
+        return [
+            HTML::class,
+            CSS::class,
+            Javascript::class,
+            Python::class,
+            Java::class,
+            Cpp::class,
+        ];
+    }
+
+    public function getFutureGoal()
+    {
+        return 'To contribute to open source and become a top coder';
+    }
+}
 
 <a href="https://twitter.com/TarunLunia1">
   <img align="left" alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,14 +62,6 @@
 
 <br/>
 <br/>
-
-
-- 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
-- 👯 I’m looking to collaborate on projects that makes me exciting.
-- 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
-- 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
-- ⚡ Fun fact: I love to play FIFA 🎮 while singing " SMOKE SHISHA PLAY FIFA ".
-
 
 <p align="center"> 
   Visitor count<br>
