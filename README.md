@@ -1,7 +1,5 @@
 ### Hey Geek, Tarun this side 🙏
 
-
-<br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/tarunlunia22?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TarunLunia1)
 <br>
 [![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://web.whatsapp.com)
@@ -17,7 +15,14 @@
 - ⚡ Fun fact: I love to play FIFA 🎮 and sing "SMOKE SHISHA PLAY FIFA ⚽️".
 
 
+### Connect with me:
+
+[<img align="left" alt="DakshJn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DakshJn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DakshJn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 <br />
+
 
 ### Languages and Tools:
 
@@ -29,6 +34,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
+
+<a href="https://github.com/luniatarun22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luniatarun22&show_icons=true&theme=light&line_height=27" alt="Tarun's github stats"/>
+ </a>
+ <a href="https://github.com/luniatarun22">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luniatarun22&theme=light&hide_langs_below=1" />
+ </a>
 
 
 ### Would ♥️ to collaborate with you.
