@@ -17,7 +17,11 @@
 <a href="https://www.instagram.com/tarun.lunia22/">
   <img align="left" alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <br/>
+<br/>
+
+
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes my brain go BANG!, the tech may be unknown to me.
