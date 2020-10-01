@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes me exciting.
 - 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
-- 📫 How to reach me: LinkedIn.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarun-lunia-630871194/).
 
 <p align="center"> 
   Visitor count<br>
@@ -46,7 +46,6 @@
   <img alt="Tarun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
- 
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
