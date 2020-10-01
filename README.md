@@ -1,9 +1,8 @@
 ### Hey Geek, [Tarun](https://github.com/tarunlunia22) this side 🙏
 
 
-[![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9016720465)
+[![whatsapp](https://img.shields.io/website?label=Feel free to Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9016720465)
 <br>
-
 
 ### Info Google won't tell you:
 
@@ -12,16 +11,6 @@
 - 💬 Ask me about Coding, Frontend Development and cloud computing.
 - 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
 - ⚡ Fun fact: I love to play FIFA 🎮 and sing "SMOKE SHISHA PLAY FIFA ⚽️".
-
-
-### Connect with me:
-
-[<img align="left" alt="DakshJn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DakshJn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DakshJn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 
 ### Languages and Tools:
 
@@ -34,12 +23,14 @@
 <br />
 <br />
 
-<a href="https://github.com/tarunlunia22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunlunia22&show_icons=true&theme=light&line_height=30" alt="Tarun's github stats"/>
- </a>
- <a href="https://github.com/tarunlunia22">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlunia22&theme=light&hide_langs_below=1" />
- </a>
-
+<details>
+<summary>:zap: Github Stats</summary>
+   <a href="https://github.comctarunlunia22">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunlunia22&show_icons=true&theme=light&line_height=27" alt="Tarun's github stats"/>
+   </a>
+   <a href="https://github.com/tarunlunia22">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunlunia22&theme=light&hide_langs_below=1" />
+   </a>
+ </details>
 
 ### Would ♥️ to collaborate with you.
