@@ -1,12 +1,5 @@
 ### Hola, I'm [Tarun](https://github.com/tarunlunia22) ! 👋.
 
-<img height="400" width="1100" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/image/Eat-Sleep-Code-Free-image-on-Pixabay.jpg" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
-</p>
-
 <a href="https://twitter.com/TarunLunia1">
   <img align="left" alt="Tarun's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -27,16 +20,17 @@
 <br/>
 
 
-
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes me exciting.
 - 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
 - 📫 How to reach me:[LinkedIn](https://linkedin.com/in/tarun-lunia-630871194).
 - ⚡ Fun fact: I love to play FIFA 🎮 while singing " SMOKE SHISHA PLAY FIFA ".
 
-[![Twitter: TarunLunia1](https://img.shields.io/twitter/follow/TarunLunia1?style=social)](https://twitter.com/TarunLunia1)
-[![Linkedin: Tarun Lunia](https://img.shields.io/badge/-Tarun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-lunia-630871194/)](https://www.linkedin.com/in/tarun-lunia-630871194/)
-[![GitHub: Tarun Lunia](https://img.shields.io/github/followers/tarunlunia22?label=follow&style=social)](https://github.com/tarunlunia22)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tarunlunia22/count.svg" />
+</p>
 
 **Languages and Tools:**  
 
