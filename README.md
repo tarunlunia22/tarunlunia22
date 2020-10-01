@@ -1,8 +1,8 @@
 
 ### Hola, I'm Tarun ! 👋.
 
-<img align="right" alt="GIF" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/code.gif?raw=true" width="500" height="320" />
- 
+<img align="right" alt="GIF" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/code.gif?raw=true" width="350" height="250" />
+ <br/>
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes me exciting.
