@@ -3,13 +3,23 @@
 
 <img align="right" alt="GIF" src="https://github.com/tarunlunia22/tarunlunia22/blob/master/code.gif?raw=true" width="350" height="250" />
 
-### I am the PR Head @GeeksforGeeks (BU) and Core @Script Foundation
 
 - 👨🏻‍💻 I’m currently working on my Web development and Competitive Coding Skills.
 - 👯 I’m looking to collaborate on projects that makes me exciting.
 - 💬 Ask me about Competitive Coding, Frontend Development and cloud computing.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tarun-lunia-630871194/).
- 
+
+
+### Experience
+
+
+- Public Relations and Outreach Head at GeeksforGeeks Society Bennett University
+- Core Team Member at Script Foundation
+- Campus Ambassador at Coding Blocks
+- Core Tech Team at Computer Society of India (CSI) Bennett University
+
+
+
 ### Languages and Tools:
 
 
